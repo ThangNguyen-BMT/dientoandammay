@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	<persistence-unit name="Asignment">
+		<class>poly.bean.Chitiethoadon</class>
+		<class>poly.bean.Giohang</class>
+		<class>poly.bean.Hoadon</class>
+		<class>poly.bean.Khachhang</class>
+		<class>poly.bean.Loaisanpham</class>
+		<class>poly.bean.Nhanvien</class>
+		<class>poly.bean.Quyen</class>
+		<class>poly.bean.Sanpham</class>
+		<class>poly.bean.Taikhoan</class>
+	</persistence-unit>
+</persistence>
